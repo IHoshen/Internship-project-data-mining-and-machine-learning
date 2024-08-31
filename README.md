@@ -11,4 +11,4 @@
 ניקוי וסידור הנתונים ע"י car_data_prep בתוכה יש את פונק' prepare_data הפונקציה משמשת להכנת הנתונים לאימון המודל וגם להכנת נתוני ה TEST לפני הזנתם למודל. מפעילים על ה – Train set את הפונקציה prepare_data , שמחזירה data מעובד ומבצעים את אימון המודל על ה - data המעובד. 
 קובץ api.py שnכיל את אפליקציית ה – FLASK.
 קובץ requirements.txt שמכיל את כל הספריות שבהם השתמשנו בשביל ליצור את flask app. 
-החלק השלישי מופיע ב repository
+(החלק השלישי מופיע ב repository בשם "Internship-project-assignment-3-flask-app" ולא ב repository הנוכחי).
